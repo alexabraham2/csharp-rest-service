@@ -40,6 +40,7 @@ spec:
       #url: ""
       ref:
         branch: main
+    subPath: CustomerProfileAPI
 
   serviceClaims:
     - name: database
